@@ -63,7 +63,9 @@
     {
       "id": 55,
       "title": "Employee Handbook",
-      "description": "The Eyeshadow Palette with Mirror offers a versatile range of eyeshadow shades for creating stunning eye looks. With a built-in mirror, it's convenient for on-the-go makeup application.",
+      "description": "Employee Handbook for ServiceNow",
+      "type": "Microsoft Word Document",
+      "location": "ServiceNow HR Documents",
       "category": "beauty",
       "price": 19.99,
       "discountPercentage": 5.5,
